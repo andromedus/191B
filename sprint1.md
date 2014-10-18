@@ -8,7 +8,7 @@ Task | Assignee | Time Est. | Percent Complete
 ---   | ---   | ---| ---
 Implement Popularity Ranking Sort for Statuses | Alexis Hoshino | 2 days | 90%
 Fixing and cleaning up the Finalized Memorial Page | Eric Tian | 3 days| 10%
-task | HQ Pham-Nguyen | time estimate| percent
+Refine the memorial page UI (different than finalized memorial page) | HQ Pham-Nguyen | 3 days | 10%
 Investigate photo pulling criteria issue | Kathleen Enverga | 2 days | 30%
 
 #### Upcoming Assignments
@@ -18,7 +18,7 @@ Implement Popularity Ranking Sort for Photos | Alexis Hoshino | 1 day | 0%
 Refactor Convoluted Code for Status MVC | Alexis Hoshino | 2 days | 0%
 Handle Pagination for Pulled Content | Alexis Hoshino | 3 day | 0%
 Fixing and cleaning up the Finalized Memorial Page | Eric Tian | 3 days | 10%
-task | HQ Pham-Nguyen | time estimate| percent
+Refine the memorial page UI | HQ Pham-Nguyen | 3 days | 10%
 Investigate photo pulling criteria issue | Kathleen Enverga | 3 days | 30%
 
 ####Notes
