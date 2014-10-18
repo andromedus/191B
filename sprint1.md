@@ -9,7 +9,7 @@ Task | Assignee | Time Est. | Percent Complete
 Implement Popularity Ranking Sort for Statuses | Alexis Hoshino | 2 days | 90%
 task | Eric Tian | time estimate| percent
 task | HQ Pham-Nguyen | time estimate| percent
-task | Kathleen Enverga | time estimate| percent
+task | Kathleen Enverga | Investigate photo pulling criteria issue | 30%
 
 #### Upcoming Assignments
 Task | Assignee | Time Est. | Percent Complete
@@ -19,7 +19,7 @@ Refactor Convoluted Code for Status MVC | Alexis Hoshino | 2 days | 0%
 Handle Pagination for Pulled Content | Alexis Hoshino | 3 day | 0%
 task | Eric Tian | time estimate| percent
 task | HQ Pham-Nguyen | time estimate| percent
-task | Kathleen Enverga | time estimate| percent
+Investigate photo pulling criteria issue | Kathleen Enverga | 3 days | 30%
 
 ####Notes
 Time estimates for coding tasks are highly approximate due to lack of familiarity with what level of difficulty implementation will actually be.
