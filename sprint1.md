@@ -9,7 +9,7 @@ Task | Assignee | Time Est. | Percent Complete
 Implement Popularity Ranking Sort for Statuses | Alexis Hoshino | 2 days | 90%
 task | Eric Tian | time estimate| percent
 task | HQ Pham-Nguyen | time estimate| percent
-task | Kathleen Enverga | Investigate photo pulling criteria issue | 30%
+Investigate photo pulling criteria issue | Kathleen Enverga | 2 days | 30%
 
 #### Upcoming Assignments
 Task | Assignee | Time Est. | Percent Complete
