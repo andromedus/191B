@@ -41,11 +41,11 @@ Epilogue’s test plan is to go through each feature (photos, videos, collaborat
  
 #### Test Deliverables: TBA
 - List test deliverables, and links to them if available, including the following:
-       -Test Plan (this document itself)
-       -Test Cases
-       -Test Scripts
-       -Defect/Enhancement Logs
-       -Test Reports
+- Test Plan (this document itself)
+- Test Cases
+- Test Scripts
+- Defect/Enhancement Logs
+- Test Reports
  
 ## Part II:  User Testing Plan
 
