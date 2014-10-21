@@ -11,15 +11,19 @@ v.0   | Draft   | Initial draft creation
 ## Introduction
 #### Overview
 Epilogue’s test plan is to go through each feature (photos, videos, collaborators, stories) with a user to ensure that the application is the desirable product of Jed’s focus group.
+
 #### Goals and Objectives
 - Our primary goal is to ensure that the workflow is consistent with the user’s expectations. We will have a set of features for the users to test out and it will give insight whether or not what was implemented meets the needs of the Jed’s focus group.
 - We want to be able to give the user a task and have the user complete each task within the given time frame to make sure that the user interface and application performance are both intuitive. We want to ensure our integration with Facebook is processed seamlessly. 
+
 #### Constraints
 - We do not have direct contact with Jed’s focus group. Jed and his research team will be our primary contact between Andromedus and the focus group. Andromedus will be receiving the data from a secondary source since we are not the ones conducting the tests.
+
 #### Assumptions and Dependencies
 - We assume that the user has some motivation to create a digital memorial for a friend.
 - We assume that the user has a Facebook account with at least one friend to create a memorial for, and that they will have basic familiarity with Facebook’s notification system in order to accept an invitation to Epilogue.
 - Our tests depend on the stable functionality of the Facebook Graph API across updates. Since Epilogue is hosted locally on machines, the tests will also be dependent upon the proper setup of the user’s computer (i.e. the application environment).
+
 #### Test Item Pass/Fail Criteria:
 -Specify the criteria that will be used to determine whether each test item (software/product) has passed or failed testing.
 - A failure criteria is as follows: “Unexpected error,” “Facebook media fails to display on memorial page”
@@ -44,9 +48,11 @@ Epilogue’s test plan is to go through each feature (photos, videos, collaborat
        -Test Reports
  
 ## Part II:  User Testing Plan
+
 #### Heuristic Evaluation / Checklist
 - Interface materials: Mockups, cognitive walkthrough, wireframe
 - Recording of findings: Notes taken during each user session, user diary logs
+
 #### User Testing
 - User Recruitment Criteria: Jed’s focus group
 - Number of Test Users: (unknown - TBA)
