@@ -1,0 +1,21 @@
+- Elevator pitch and first slide transition- one sentence to summarize what Epilogue is about with a pause (Bart)
+- Elevator pitch - stray a bit away from philosophical aspects (Bart) - (e.g. that we can’t answer a question like “what happens after we die”, and we won’t try to)
+- Partial persona- maybe a famous person that passed- although can’t pull facebook data and would lose the intimate feel of own social network (Ziv, Tao)
+- Highlight on what makes project unique- building for researchers rather than for commercial production (Bart)
+- Maybe touch on why you are the right ones to build this project as opposed to other people (Erick)
+- Prototypes: clearly label which one is from photoshop and HTML. (Erick)
+- (This wasn't mentioned in the review, but should we try to up the contrast&brightness levels so the paper prototypes are easier to see from a distance/etc?-Alexis)
+- Discuss mistakes/decisions on all agreed to the three-column format and the design of Epilogue.
+- Reviewers also said that they wanted to hear more about why /we/ are the team that should build epilogue why it matters that it's us(?), and what kind of obstacles we've overcome/feedback we've received/evolution of the application to take advice into account/etc
+- Reviewers said that captions on the photoshop Epilogue app prototypes would be helpful so that audience will be able to differentiate from the poster drafts from a distance (since they have similar layouts that might be difficult to differentiate significantly from a distance)
+- Bart said to try to give concrete examples for the Live Demo section, like what exactly you'd be writing a story about and why, why you would want to delete some statuses or pictures, etc (e.g. the friend said something really powerful to you a couple of days before they passed, they were having a wild party before they passed that you don't really want pictures of on their memorial, etc)
+- Go over the fact that we can create more than 1 memorial for 1 person and the reason behind that
+- Poster Draft- “Sign In” and the top three features/icons on top- can be reworded - more important that creating/curating data vs signing in (Erick)
+- Bart & Tao said we should try to change the subtitles associated with each icon. One comment was on how the FB sign in isn't much of a feature. The FB media collection /is/ a feature though. being able to collaborate is a feature, as well as being able to share stories/memorials (i think that was the gist of things?)
+- They also said avoid white space on the screenshots, to maybe do zoom ins on the features, be consistent with our branding & logo, and to try to maybe use our slide background because it really effectively evokes a good vibe for the project (not depressing, not cheesy, etc) and adds visual interest to the poster
+- Top three icons- may not even need, Tao says; Bart says can probably keep icons and reword it (Tao, Bart)
+- Code maintainability- passing this on to Jed and possibly other people who will work on this 
+- Also okay to talk about mistakes along the way and how we got from this point to the next- audience would be more invested if we took them on a journey of how it was made rather than showing them this, then this, and they’d think oh, that was easy, I can go home and build one right now. This touches on the reasoning behind why we are the ones who are building this project. 
+- Branding - epilogue logo on poster draft- be consistent with the fonts
+- Maybe even mute/saturate the colors on background photo for poster draft to give it a sensitive feeling and bring out your screenshots/poster content  
+
