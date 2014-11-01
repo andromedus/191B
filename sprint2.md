@@ -8,7 +8,7 @@ Implement Popularity Ranking Sort for Photos | Alexis Hoshino | 1 day | 100%
 Refactor Convoluted Code for Status MVC | Alexis Hoshino | 2 days | 20%
 Handle Pagination for Pulled Content | Alexis Hoshino | 3 day | 70%
 Fixing and cleaning up the Finalized Memorial Page | Eric Tian | 3 days| 10%
-Refine the memorial page UI (different than finalized memorial page) | HQ Pham-Nguyen | 3 days |
+Refine the memorial page UI | HQ Pham-Nguyen | 3 days | 30%
 Investigate which Facebook photos being pulled | Kathleen Enverga | 7 days | 90%
 
 #### Upcoming Assignments
