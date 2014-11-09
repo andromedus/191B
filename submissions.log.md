@@ -1,6 +1,6 @@
 ####Welcome to Andromedus' Stimulus Package annotation page!
-######Here, we will annotate which files have been changed in this folder (191B).
----
+Here, we will annotate which files have been changed in this folder (191B).
+
 
 ####Nov 11th (Stimulus Package 1 due):
 + business-case.md: updated to reflect requirements changes
