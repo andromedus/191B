@@ -2,7 +2,7 @@ Welcome to Andromedus' Stimulus Package annotation page!
 Here, we will annotate which files have been changed in this folder (191B).
 
 ####Nov 11th (Stimulus Package 1):
-**business-case.md: updated to reflect requirements changes
+** business-case.md: updated to reflect requirements changes
 **requirements.md: updated to reflect new requirements
 **testplan-draft2.md: corresponds to previous design document
   
