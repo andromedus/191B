@@ -1,5 +1,6 @@
-Welcome to Andromedus' Stimulus Package annotation page!
-Here, we will annotate which files have been changed in this folder (191B).
+####Welcome to Andromedus' Stimulus Package annotation page!
+######Here, we will annotate which files have been changed in this folder (191B).
+---
 
 ####Nov 11th (Stimulus Package 1 due):
 + business-case.md: updated to reflect requirements changes
@@ -10,7 +11,7 @@ Here, we will annotate which files have been changed in this folder (191B).
 + communication-covenant.md: updated to reflect this quarter's agreements
 + Andromedus-GanttChart-Fall2014.png: created team's project and class assignments schedule
 
-### All Files
+#### All Files
 Assignment | Date Added | Last Modified
 ---   | ---   | --- 
 Progress Report 1 | BLAH | BLAH
