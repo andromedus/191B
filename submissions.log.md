@@ -14,15 +14,16 @@ Here, we will annotate which files have been changed in this folder (191B).
 #### All Files
 Assignment | Date Added | Last Modified
 ---   | ---   | --- 
-Progress Report 1 | BLAH | BLAH
-Gantt Chart | BLAH | BLAH
-Communication Covenant | BLAH | BLAH
-Project Plan | BLAH | BLAH
-Sprint 1 | BLAH | BLAH
-Poster Draft 1 | BLAH | BLAH
-Test Plan Draft 1 | BLAH | BLAH
-Progress Report 2 | BLAH | BLAH
-Poster Draft 2 | BLAH | BLAH
-Poster Final Draft | BLAH | BLAH
-Test Plan Draft 2 | BLAH | BLAH
-Sprint 2 | BLAH | BLAH
+Progress Report 1 | 10/8/14 | BLAH
+Gantt Chart | 10/8/14 | BLAH
+Communication Covenant | 10/8/14 | BLAH
+Project Plan | 10/8/14 | BLAH
+Sprint 1 | 10/17/14 | BLAH
+Poster Draft 1 | 10/19/14 | BLAH
+Test Plan Draft 1 | 10/21/14 | BLAH
+Progress Report 2 | 10/9/14 | BLAH
+Poster Draft 2 | 10/23/14 | BLAH
+Poster Final Draft | 10/29/14 | BLAH
+Test Plan Draft 2 | 10/30/14 | BLAH
+Sprint 2 | 10/31/14 | BLAH
+Oktoberfest Feedback | 10/22/14 | BLAH
