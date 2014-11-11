@@ -1,18 +1,20 @@
-###Welcome to Andromedus' files annotation page.
+##Welcome to Andromedus' files annotation page.
 Here, we will annotate which files get added and changed in this folder (191B).
+---
 
+### Items Due:
 
-####Nov 11th (Stimulus Package 1 due):
+####Nov 11th (Stimulus Package 1):
 + business-case.md: updated to reflect this quarter's requirements changes
 + requirements.md: updated to reflect new requirements
 + test-plan-draft-2.md: corresponds to previous design document from 191A
   
-####Nov 9th (Items already expected due):
+####Nov 9th (Items already expected):
 + communication-covenant.md: updated to reflect this quarter's agreements
 + gantt-chart.png: created team's project and class assignments schedule
 + poster-final-draft.jpg: uploaded the final poster for Novemberfest
 
-#### All Files:
+### All Files:
 Assignment | File Name | Date Added | Last Modified
 ---   | ---   | ---  | --- 
 Progress Report 1 | progress-report-1.pdf |10/8/14 | 10/8/14
@@ -29,4 +31,4 @@ Test Plan Draft 2 | test-plan-draft-2.md | 10/30/14 | 10/30/14
 Sprint 2 | sprint-2.md | 10/31/14 | 10/31/14
 Oktoberfest Feedback | oktoberfest-feedback.md | 10/22/14 | 10/22/14
 Business Case | business-case.md | 04/19/14 | 11/9/14
-Requirements Document | requirements.md | 
+Requirements Document | requirements.md | 04/19/14 | 11/9/14
