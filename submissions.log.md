@@ -2,8 +2,6 @@
 Here, we will annotate which files get added and changed in this folder (191B).
 
 
-### Items Due:
-
 ####Nov 11th (Stimulus Package 1):
 + business-case.md: updated to reflect this quarter's requirements changes
 + requirements.md: updated to reflect new requirements
