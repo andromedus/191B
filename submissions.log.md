@@ -5,11 +5,12 @@ Here, we will annotate which files have been changed in this folder (191B).
 ####Nov 11th (Stimulus Package 1 due):
 + business-case.md: updated to reflect requirements changes
 + requirements.md: updated to reflect new requirements
-+ testplan-draft2.md: corresponds to previous design document
++ testplan-draft2.md: corresponds to previous design document 
   
 ####Nov 9th (Items already expected due):
 + communication-covenant.md: updated to reflect this quarter's agreements
 + Andromedus-GanttChart-Fall2014.png: created team's project and class assignments schedule
++ Epilogue NOVEMBERFEST Poster.jpg: uploaded the final poster for Novemberfest
 
 #### All Files:
 Assignment | Date Added | Last Modified
