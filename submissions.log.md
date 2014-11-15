@@ -1,6 +1,8 @@
 ##Welcome to Andromedus' files annotation page.
 Here, we will annotate which files get added and changed in this folder (191B).
 
+####Nov 14th (Sprint 3):
++ sprint-3.md: added Sprint 3 to the repository
 
 ####Nov 11th (Stimulus Package 1):
 + business-case.md: updated to reflect this quarter's requirements changes
