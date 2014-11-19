@@ -2,8 +2,8 @@
 ###November 19 - November 26, 2014
 
 #### ALEXIS - Tasklist #1 Assignments
-Task Description| Time Est. | Scheduled Day | Completed?
----   | ---   | ---| --- | --- | ---
+Task Description| Time Est. | Scheduled Day | Completed
+---   | ---   | ---| --- | ---
 Refactor Convoluted Code for Status MVC | Alexis Hoshino | 3 days | 80%
 Handle Pagination for Pulled Content | Alexis Hoshino | 3 days | 100%
 Emergency Fix for Laravel 4.2 Upgrade for Sponsor | Alexis Hoshino | 3 days | 100%
