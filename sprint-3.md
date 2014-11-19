@@ -16,8 +16,8 @@ Implement changes for Facebook photo pulling feature as needed (note: decision w
 Task | Assignee | Time Est. | Percent Complete
 ---   | ---   | ---| ---
 Implement Task Queue to Improve Page Loading Speed | Alexis Hoshino | 7 days | 10%
-Work on error page | Eric Tian | 3 days | 10%
-Prepare prototype for 10 use cases as requested by Jed for member checks | HQ Pham-Nguyen | 2 days | 40%
+Work on error page | Eric Tian | 3 days | 100%
+Prepare prototype for 10 use cases as requested by Jed for member checks | HQ Pham-Nguyen | 2 days | 100%
 Implement calendar in create memorial page | Kathleen Enverga | 1 day | 0%
 
 ####Notes
