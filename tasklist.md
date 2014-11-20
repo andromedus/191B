@@ -22,30 +22,30 @@ Remove Edit About Button in Memorials Under About Section | 10 minutes | Saturda
 #### ERIC - Tasklist #1 Assignments
 Task Description| Time Est. | Scheduled Day | Completed
 ---   | ---   | ---| --- | ---
-Make error page consistent with rest of site | 45 minutes | Tuesday | 0%
-Consistent size for memorial wells | 60 minutes | Tuesday | 0%
-Redesign Edit Status Page | 60 minutes | Tuesday | 0%
+Make error page consistent with rest of site | 45 minutes | Tuesday | -
+Consistent size for memorial wells | 60 minutes | Tuesday | -
+Redesign Edit Status Page | 60 minutes | Tuesday | -
 
 
 
 #### HQ - Tasklist #1 Assignments
 Task Description| Time Est. | Scheduled Day | Completed
 ---   | ---   | ---| --- | ---
-Fix the top of add collaborators page | HQ Pham-Nguyen | Friday | 0%
-Fix the add collaborator button | HQ Pham-Nguyen | Friday | 0%
-Explain “collaborators” to user with a hint | HQ Pham-Nguyen | Friday | 0%
-Design the pending collaborators page | HQ Pham-Nguyen | Saturday | 0%
-Fix the edit and delete stories buttons | HQ Pham-Nguyen | Saturday | 0%
-Fix the headers in stories landing page | HQ Pham-Nguyen | Saturday | 0%
-Fix the title column in stories | HQ Pham-Nguyen | Saturday | 0%
-Create task update page for Jed | HQ Pham-Nguyen | Sunday | 0%
+Fix the top of add collaborators page | 30 minutes | Friday | -
+Fix the add collaborator button | 15 minutes | Friday | -
+Explain “collaborators” to user with a hint | 30 minutes | | Friday | -
+Reesign the pending collaborators page |  60 minutes | Saturday | -
+Fix the edit and delete stories buttons | 20 minutes | Saturday | -
+Fix the headers in stories landing page | 20 minutes | Saturday | -
+Fix the title column in stories | 30 minutes | Saturday | -
+Create task update page for Jed | 40 minutes | Sunday | -
 
 
 
 #### KATHLEEN - Tasklist #1 Assignments
 Task Description| Time Est. | Scheduled Day | Completed
 ---   | ---   | ---| --- | ---
-Consistent spacing on the photos column in memorial | 45 minutes | Tuesday | 0%
-Dedicated photos page/gallery | 30 minutes | Tuesday | 0%
-"See more" button on photos | 20 minutes | Tuesday | 0%
-FUI Calendar on Create Memorial Page | 45 minutes | Tuesday | 0%
+Consistent spacing on the photos column in memorial | 45 minutes | Tuesday | -
+Dedicated photos page/gallery | 30 minutes | Tuesday | -
+"See more" button on photos | 20 minutes | Tuesday | -
+FUI Calendar on Create Memorial Page | 45 minutes | Tuesday | -
