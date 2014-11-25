@@ -36,7 +36,7 @@ Fix the add collaborator button | 15 minutes | Friday | ✓
 Reesign the pending collaborators page |  60 minutes | Saturday | -
 Fix the edit and delete stories buttons | 20 minutes | Saturday | ✓
 Fix the headers in stories landing page | 20 minutes | Saturday | ✓
-Fix header of stories title smaller than memorial top | 20 minutes | Saturday | -
+Fix header of stories title smaller than memorial top | 20 minutes | Saturday | ✓
 Fix the title column in stories | 30 minutes | Saturday | -
 Create task update page for Jed | 40 minutes | Sunday | -
 
