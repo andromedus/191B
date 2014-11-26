@@ -22,9 +22,11 @@ Remove Edit About Button in Memorials Under About Section | 10 minutes | Saturda
 #### ERIC - Tasklist #1 Assignments
 Task Description| Time Est. | Scheduled Day | Completed
 ---   | ---   | ---| --- | ---
-Make error page consistent with rest of site | 45 minutes | Tuesday | -
-Consistent size for memorial wells | 60 minutes | Tuesday | -
-Redesign Edit Status Page | 60 minutes | Tuesday | -
+Make error page consistent with rest of site | 45 minutes | Tuesday | ✓
+Consistent size for memorial wells | 60 minutes | Tuesday | ✓
+Redesign Edit Status Page | 60 minutes | Tuesday | ✓
+Fix Photos Blank Space Column Issue | 45 minutes | Monday | -
+Fix Status Blank Space Column Issue | 15 minutes | Monday | -
 
 
 
