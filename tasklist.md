@@ -44,7 +44,7 @@ Create task update page for Jed | 40 minutes | Sunday | -
 #### KATHLEEN - Tasklist #1 Assignments
 Task Description| Time Est. | Scheduled Day | Completed
 ---   | ---   | ---| --- | ---
-Consistent spacing on the photos column in memorial [low priority] | 45 minutes | Tuesday | -
+Consistent spacing on the photos column in memorial [low priority] | 45 minutes | Tuesday | ✓
 Dedicated photos page/gallery | 30 minutes | Tuesday | ✓
 "See more" button on photos | 20 minutes | Tuesday | ✓
-FUI Calendar on Create Memorial Page | 45 minutes | Tuesday | -
+FUI Calendar on Create Memorial Page | 45 minutes | Tuesday | ✓
