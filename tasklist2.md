@@ -28,7 +28,9 @@ Fix Status Blank Space Column Issue | 15 minutes | Monday | -
 #### HQ - Tasklist #1 Assignments
 Task Description| Time Est. | Scheduled Day | Completed
 ---   | ---   | ---| --- | ---
-Fix stories avatars to pull user photos | 60 minutes | Saturday | -
+Fix stories table so that there is no more database-looking table | 60 minutes | Saturday | -
+Add avatars for each stories item | 60 minutes | Saturday | -
+Make avatars pull Facebook user photos | 60 minutes | Saturday | -
 Fix option to type in user in Add Story since it is obvious that person logged in is the user | 60 minutes | Saturday | -
 Fix CSS to make stories’ titles larger | 15 minutes | Sunday | -
 Add background fill color for each item in stories | 15 minutes | Sunday | -
