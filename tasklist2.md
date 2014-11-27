@@ -33,20 +33,23 @@ Fix Status Blank Space Column Issue | 15 minutes | Monday | -
 #### HQ - Tasklist #1 Assignments
 Task Description| Time Est. | Scheduled Day | Completed
 ---   | ---   | ---| --- | ---
-Fix the top of add collaborators page | 30 minutes | Friday | ✓
-Fix the add collaborator button | 15 minutes | Friday | ✓
+Fix stories avatar to pull user photos
+ | 30 minutes | Friday | ✓
+Fix option to type in user in Add Story since obvious that person logged in is the user
+ | 15 minutes | Friday | ✓
 Reesign the pending collaborators page |  60 minutes | Saturday | -
-Fix the edit and delete stories buttons | 20 minutes | Saturday | ✓
-Fix the headers in stories landing page | 20 minutes | Saturday | ✓
+Fix CSS to make stories’ titles larger | 20 minutes | Saturday | ✓
+Add background fill color for each item in stories
+| 20 minutes | Saturday | ✓
 Fix header of stories title smaller than memorial top | 20 minutes | Saturday | ✓
-Create task update page for Jed | 40 minutes | Sunday | -
+
 
 
 
 #### KATHLEEN - Tasklist #1 Assignments
 Task Description| Time Est. | Scheduled Day | Completed
 ---   | ---   | ---| --- | ---
-Consistent spacing on the photos column in memorial [low priority] | 45 minutes | Saturday | -
-FUI Calendar on Create Memorial Page | 45 minutes | Saturday | -
-Reformat Photo Gallery | 60 minutes | Tuesday | -
-Modify photo gallery options (upload photo, delete photo...) | 45 minutes | Tuesday
+Consistent spacing on the photos column in memorial | 45 minutes | Tuesday | -
+Dedicated photos page/gallery | 30 minutes | Tuesday | ✓
+"See more" button on photos | 20 minutes | Tuesday | ✓
+FUI Calendar on Create Memorial Page | 45 minutes | Tuesday | -
