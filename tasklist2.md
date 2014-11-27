@@ -4,16 +4,13 @@
 #### ALEXIS - Tasklist #1 Assignments
 Task Description| Time Est. | Scheduled Day | Completed
 ---   | ---   | ---| --- | ---
-Create the Waiting Page Route and Redirect to It | 30 minutes | Friday | -
-Create the Memorial Creation Waiting Page View | 60 minutes | Friday | -
-Parse and Display the Memorial Creation Waiting Page Content | 60 minutes | Friday | -
-Write Queue fire() Method for Statuses | 60 minutes | Friday | -
-Add Code for Queue fire() Method for Photos | 60 minutes | Saturday | -
-Run Queue Push and Listen Tests (including listen sleep periods) | 10 minutes | Saturday | -
-Add Faded Text Explanation to Tagline Field in Memorial | 30 minutes | Saturday | -
-Detect Empty Results from Memorial DB Queries | 30 minutes | Saturday | -
-Respond to Detection for Empty Results in View | 30 minutes | Saturday | -
-Remove Edit About Button in Memorials Under About Section | 10 minutes | Saturday | -
+Address merge conflicts with develop branch. | 60 minutes | Friday | -
+Adapt status download code for Status model from BaseController | 30 minutes | Friday | -
+Write queue fire() method for statuses | 60 minutes | Friday | -
+Walkthrough code to ensure no conflicts/bugs were introduced by the merge. | 20 minutes | Friday | -
+Run queue push and listen tests (including listen sleep periods) | 10 minutes | Saturday | -
+(Awaiting further queue tasks from Jed as evolution of this feature is explained) | x minutes | x | -
+
 
 
 #### ERIC - Tasklist #1 Assignments
