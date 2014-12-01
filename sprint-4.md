@@ -52,7 +52,7 @@ Add background fill color for each item in stories | HQ Pham-Nguyen | 15 minutes
 Add quotations for all memorial tag lines | HQ Pham-Nguyen | 15 minutes |  0%
 Consistent spacing on the photos column in memorial | Kathleen Enverga | 45 minutes |  0%
 FUI Calendar on Create Memorial Page | Kathleen Enverga | 45 minutes |  0%
-Improve photo gallery UI | 60 minutes | 0%
+Improve photo gallery UI | Kathleen Enverga | 60 minutes | 0%
 
 ####Notes
 Tasks reflect task list items. Time estimates for coding tasks are highly approximate due to lack of familiarity with what level of difficulty implementation will actually be.
