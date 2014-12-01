@@ -1,12 +1,12 @@
 ## Sprint 4
 ###November 14 - November 28, 2014
 
-####Sprint 2 Assignments
+####Sprint 4 Assignments
 Task | Assignee | Time Est. | Percent Complete
 ---   | ---   | ---| ---
 Read Redis.io Documentation Regarding Laravel | Alexis Hoshino | 60 minutes | 100%
-Separate Code for Non-Queue and Queue Content (Setps 1-5) (Refactor MemorialController store() to submethods Part 1) | Alexis Hoshino | 60 minutes | 100%
-Separate Code for Non-Queue and Queue Content (Setps 6-7) (Refactor MemorialController store() to submethods Part 2) | Alexis Hoshino | 45 minutes | 100%
+Separate Code for Non-Queue and Queue Content (Steps 1-5) (Refactor MemorialController store() to submethods Part 1) | Alexis Hoshino | 60 minutes | 100%
+Separate Code for Non-Queue and Queue Content (Steps 6-7) (Refactor MemorialController store() to submethods Part 2) | Alexis Hoshino | 45 minutes | 100%
 Create the Waiting Page Route and Redirect to It | Alexis Hoshino | 30 minutes | 100%
 Create a Memorial Creation Waiting Page View | Alexis Hoshino | 60 minutes | 100%
 Write Queue fire() Method for Statuses | Alexis Hoshino | 60 minutes | 80%
@@ -51,9 +51,8 @@ Fix CSS to make stories’ titles larger | HQ Pham-Nguyen | 15 minutes |  0%
 Add background fill color for each item in stories | HQ Pham-Nguyen | 15 minutes |  0%
 Add quotations for all memorial tag lines | HQ Pham-Nguyen | 15 minutes |  0%
 Consistent spacing on the photos column in memorial | Kathleen Enverga | 45 minutes |  0%
-Dedicated photos page/gallery | Kathleen Enverga | 30 minutes |  0%
-"See more" button on photos | Kathleen Enverga | 20 minutes |  0%
 FUI Calendar on Create Memorial Page | Kathleen Enverga | 45 minutes |  0%
+Improve photo gallery UI | 60 minutes | 0%
 
 ####Notes
 Tasks reflect task list items. Time estimates for coding tasks are highly approximate due to lack of familiarity with what level of difficulty implementation will actually be.
