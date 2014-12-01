@@ -1,7 +1,7 @@
 ## Tasklist #2
 ###November 19 - November 26, 2014
 
-#### ALEXIS - Tasklist #1 Assignments
+#### ALEXIS - Tasklist #2 Assignments
 Task Description| Time Est. | Scheduled Day | Completed
 ---   | ---   | ---| --- | ---
 Address merge conflicts with develop branch. | 60 minutes | Friday | -
@@ -13,7 +13,7 @@ Run queue push and listen tests (including listen sleep periods) | 10 minutes | 
 
 
 
-#### ERIC - Tasklist #1 Assignments
+#### ERIC - Tasklist #2 Assignments
 Task Description| Time Est. | Scheduled Day | Completed
 ---   | ---   | ---| --- | ---
 Research cascading grid for status and photos blank space issue | 15 minutes | Sunday | -
@@ -22,7 +22,7 @@ Fix Photos Blank Space Column Issue | 45 minutes | Monday | -
 Fix Status Blank Space Column Issue | 15 minutes | Monday | -
 
 
-#### HQ - Tasklist #1 Assignments
+#### HQ - Tasklist #2 Assignments
 Task Description| Time Est. | Scheduled Day | Completed
 ---   | ---   | ---| --- | ---
 Fix stories table so that there is no more database-looking table | 60 minutes | Saturday | -
@@ -36,7 +36,7 @@ Add quotations for all memorial tag lines | 15 minutes | Sunday | -
 
 
 
-#### KATHLEEN - Tasklist #1 Assignments
+#### KATHLEEN - Tasklist #2 Assignments
 Task Description| Time Est. | Scheduled Day | Completed
 ---   | ---   | ---| --- | ---
 Consistent spacing on the photos column in memorial | 45 minutes | Tuesday | -
