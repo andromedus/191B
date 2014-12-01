@@ -50,10 +50,10 @@ Fix option to type in user in Add Story since it is obvious that person logged i
 Fix CSS to make stories’ titles larger | HQ Pham-Nguyen | 15 minutes |  0%
 Add background fill color for each item in stories | HQ Pham-Nguyen | 15 minutes |  0%
 Add quotations for all memorial tag lines | HQ Pham-Nguyen | 15 minutes |  0%
-Consistent spacing on the photos column in memorial Kathleen Enverga | 45 minutes |  0%
-Dedicated photos page/gallery Kathleen Enverga | 30 minutes |  0%
-"See more" button on photos Kathleen Enverga | 20 minutes |  0%
-FUI Calendar on Create Memorial Page Kathleen Enverga | 45 minutes |  0%
+Consistent spacing on the photos column in memorial | Kathleen Enverga | 45 minutes |  0%
+Dedicated photos page/gallery | Kathleen Enverga | 30 minutes |  0%
+"See more" button on photos | Kathleen Enverga | 20 minutes |  0%
+FUI Calendar on Create Memorial Page | Kathleen Enverga | 45 minutes |  0%
 
 ####Notes
 Tasks reflect task list items. Time estimates for coding tasks are highly approximate due to lack of familiarity with what level of difficulty implementation will actually be.
