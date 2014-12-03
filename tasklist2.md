@@ -32,6 +32,7 @@ Fix option to type in user in Add Story since it is obvious that person logged i
 Fix CSS to make stories’ titles larger | 15 minutes | Sunday | ✓
 Add background fill color for each item in stories | 15 minutes | Sunday | -
 Add quotations for all memorial tag lines | 15 minutes | Sunday | ✓
+Style all stories sub pages like main page| 15 minutes | Sunday | -
 
 
 
