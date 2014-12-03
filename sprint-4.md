@@ -45,8 +45,6 @@ Fix Photos Blank Space Column Issue | Eric Tian | 45 minutes |  0%
 Fix Status Blank Space Column Issue | Eric Tian | 15 minutes |  0%
 Fix stories table so that there is no more database-looking table | HQ Pham-Nguyen | 60 minutes |  0%
 Add avatars for each stories item | HQ Pham-Nguyen | 60 minutes |  0%
-Make avatars pull Facebook user photos | HQ Pham-Nguyen | 60 minutes |  0%
-Fix option to type in user in Add Story since it is obvious that person logged in is the user | HQ Pham-Nguyen | 60 minutes |  0%
 Fix CSS to make stories’ titles larger | HQ Pham-Nguyen | 15 minutes |  0%
 Add background fill color for each item in stories | HQ Pham-Nguyen | 15 minutes |  0%
 Add quotations for all memorial tag lines | HQ Pham-Nguyen | 15 minutes |  0%
