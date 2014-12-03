@@ -48,6 +48,7 @@ Add avatars for each stories item | HQ Pham-Nguyen | 60 minutes |  0%
 Fix CSS to make stories’ titles larger | HQ Pham-Nguyen | 15 minutes |  0%
 Add background fill color for each item in stories | HQ Pham-Nguyen | 15 minutes |  0%
 Add quotations for all memorial tag lines | HQ Pham-Nguyen | 15 minutes |  0%
+Style all stories sub pages like main page| 15 minutes | Sunday | 0%
 Consistent spacing on the photos column in memorial | Kathleen Enverga | 45 minutes |  0%
 FUI Calendar on Create Memorial Page | Kathleen Enverga | 45 minutes |  0%
 Improve photo gallery UI | Kathleen Enverga | 60 minutes | 0%
