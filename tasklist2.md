@@ -29,7 +29,7 @@ Fix stories table so that there is no more database-looking table | 60 minutes |
 Add avatars for each stories item | 60 minutes | Saturday | ✓
 Make avatars pull Facebook user photos | 60 minutes | Saturday | -
 Fix option to type in user in Add Story since it is obvious that person logged in is the user | 60 minutes | Saturday | -
-Fix CSS to make stories’ titles larger | 15 minutes | Sunday | -
+Fix CSS to make stories’ titles larger | 15 minutes | Sunday | ✓
 Add background fill color for each item in stories | 15 minutes | Sunday | -
 Add quotations for all memorial tag lines | 15 minutes | Sunday | -
 
