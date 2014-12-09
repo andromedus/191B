@@ -24,19 +24,17 @@ Test User Activity Logging | 10 minutes | Wednesday | -
 #### ERIC - Tasklist #3 Assignments
 Task Description| Time Est. | Scheduled Day | Completed
 ---   | ---   | ---| --- | ---
-Research cascading grid for status and photos blank space issue | 15 minutes | Sunday | ✓
-Fix profile images for memorials | 15 minutes | Monday | ✓
-Fix Photos Blank Space Column Issue | 45 minutes | Monday | ✓
-Fix Status Blank Space Column Issue | 15 minutes | Monday | ✓
+Photos UI Cascading with no edges | 35 minutes | Monday | ✓
+Error page consistency and navbar | 25 minutes | Monday | ✓
 
 
 #### HQ - Tasklist #3 Assignments
 Task Description| Time Est. | Scheduled Day | Completed
 ---   | ---   | ---| --- | ---
-Have stories pull Facebook user profile pictures | 60 minutes | Saturday | -
-Make error page consistent with site | 60 minutes | Saturday | -
-Fix the navbar in stories | 15 minutes | Sunday | -
-
+Have stories pull Facebook user profile pictures | 60 minutes | Saturday | ✓
+Fix error page navbar | 15 minutes | Saturday | ✓
+Fix the navbar in stories | 15 minutes | Sunday | ✓
+Fix stories columns | 30 minutes | Saturday | ✓
 
 
 #### KATHLEEN - Tasklist #3 Assignments
