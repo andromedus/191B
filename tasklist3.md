@@ -3,12 +3,21 @@
 #### ALEXIS - Tasklist #3 Assignments
 Task Description| Time Est. | Scheduled Day | Completed
 ---   | ---   | ---| --- | ---
-Address merge conflicts with develop branch. | 60 minutes | Friday | -
-Adapt status download code for Status model from BaseController | 30 minutes | Friday | -
-Write queue fire() method for statuses | 60 minutes | Friday | -
-Walkthrough code to ensure no conflicts/bugs were introduced by the merge. | 20 minutes | Friday | -
-Run queue push and listen tests (including listen sleep periods) | 10 minutes | Saturday | -
-(Awaiting further queue tasks from Jed as evolution of this feature is explained) | x minutes | x | -
+Stories Page needs the author's FB profile image (Model, Controller) | 60 minutes | Friday | -
+Stories Page needs the author's FB profile image (View) | 30 minutes | Friday | -
+Update Staging branch to have some of Develop branch's updates | 60 minutes | Friday | -
+Fix bug that displays empty quotations when the tagline should be blank | 20 minutes | Friday | -
+Create and Migrate Failed_Jobs Queue Table | 20 minutes | Saturday | -
+Break a Queue to Log the Error in the Failed_Jobs Table | 5 minutes | Saturday | -
+Debug why queue faiures aren't being logged in Failed_Jobs Table | (many hours) | Saturday+Sunday | -
+Set Up Beanstalkd 3rd Party Queue Service because Redis is the Issue | 60 minutes | Sunday | -
+Switch from Redis to Beanstalkd (config) and Update Vagrant | 40 minutes | Sunday | -
+Verify that Beanstalkd is Setup and Jobs Fail as Expected | 10 minutes | Sunday | -
+Integrate Monolog with Laravel for User Activity Logging | 60 minutes | Wednesday | -
+Create a Class to Wrap User Activity Logging in Monolog | 60 minutes | Wednesday | -
+Find How to Log the Controller and Route | 60 minutes | Wednesday | -
+Create Dedicated Digest Files for User Activity Logging | 40 minutes | Wednesday | -
+Test User Activity Logging | 10 minutes | Wednesday | -
 
 
 
