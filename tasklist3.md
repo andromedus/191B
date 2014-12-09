@@ -33,13 +33,9 @@ Fix Status Blank Space Column Issue | 15 minutes | Monday | ✓
 #### HQ - Tasklist #3 Assignments
 Task Description| Time Est. | Scheduled Day | Completed
 ---   | ---   | ---| --- | ---
-Fix stories table so that there is no more database-looking table | 60 minutes | Saturday | ✓
-Add avatars for each stories item | 60 minutes | Saturday | ✓
-Fix CSS to make stories’ titles larger | 15 minutes | Sunday | ✓
-Add background fill color for each item in stories | 15 minutes | Sunday | -
-Add quotations for all memorial tag lines | 15 minutes | Sunday | ✓
-Style all stories sub pages like main page| 15 minutes | Sunday | ✓
-
+Have stories pull Facebook user profile pictures | 60 minutes | Saturday | -
+Make error page consistent with site | 60 minutes | Saturday | -
+Fix the navbar in stories | 15 minutes | Sunday | -
 
 
 
