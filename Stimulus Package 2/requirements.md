@@ -51,7 +51,7 @@ The user will have:
 + MySQL
 + PHP
 + Git
-+ Pagoda
++ Beanstalkd
 
 ## Non-functional requirements 
 
