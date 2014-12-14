@@ -32,6 +32,9 @@ Create a Class to Wrap User Activity Logging in Monolog | Alexis Hoshino | 60 mi
 Find How to Log the Controller and Route | Alexis Hoshino | 60 minutes | 0%
 Create Dedicated Digest Files for User Activity Logging | Alexis Hoshino | 40 minutes | 0%
 Test User Activity Logging | Alexis Hoshino | 10 minutes | 0%
+Implement auto-refresh in upload photo feature | 45 minutes | 0%
+Fix CSS to be compatible with all browsers in photos  60 minutes | 0%
+INtegrate slider feature within JS lightbox | 50 minutes | 0%
 
 ####Notes
 Tasks reflect task list items. Time estimates for coding tasks are highly approximate due to lack of familiarity with what level of difficulty implementation will actually be.
