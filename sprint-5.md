@@ -34,7 +34,7 @@ Create Dedicated Digest Files for User Activity Logging | Alexis Hoshino | 40 mi
 Test User Activity Logging | Alexis Hoshino | 10 minutes | 0%
 Implement auto-refresh in upload photo feature | Kathleen Enverga | 45 minutes | 0%
 Fix CSS to be compatible with all browsers in photos | Kathleen Enverga |  60 minutes | 0%
-INtegrate slider feature within JS lightbox | Kathleen Enverga | 50 minutes | 0%
+Integrate slider feature within JS lightbox | Kathleen Enverga | 50 minutes | 0%
 
 ####Notes
 Tasks reflect task list items. Time estimates for coding tasks are highly approximate due to lack of familiarity with what level of difficulty implementation will actually be.
