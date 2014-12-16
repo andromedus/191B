@@ -32,6 +32,8 @@ Create a Class to Wrap User Activity Logging in Monolog | Alexis Hoshino | 60 mi
 Find How to Log the Controller and Route | Alexis Hoshino | 60 minutes | 0%
 Create Dedicated Digest Files for User Activity Logging | Alexis Hoshino | 40 minutes | 0%
 Test User Activity Logging | Alexis Hoshino | 10 minutes | 0%
+Fix floating stories section on memorial front page | HQ Pham-Nguyen | 30 minutes | 0%
+Fix CSS for stories front page display | HQ Pham-Nguyen | 30 minutes | 0%
 Implement auto-refresh in upload photo feature | Kathleen Enverga | 45 minutes | 0%
 Fix CSS to be compatible with all browsers in photos | Kathleen Enverga |  60 minutes | 0%
 Integrate slider feature within JS lightbox | Kathleen Enverga | 50 minutes | 0%
