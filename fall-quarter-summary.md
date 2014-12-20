@@ -20,7 +20,7 @@
   
 We also need to be able to pull even more Facebook data than we currently do for use cases where someone would want to dig as far back into a loved one’s digital life as a few decades. 
 
-There are parts of the app that need to be reevaluated- such as signing in to the app and making sure there are no discrepancies there when a user a logs in and how that is displayed in the navigation bar. 
+There are parts of the app that need to be reevaluated- such as signing in to the app and making sure there are no discrepancies there when a user a logs in and how that is displayed in the navigation bar. Others are listed below.
 
 #### What should we do to complete those tasks?
 
@@ -31,3 +31,5 @@ We should fix the death date issue- someone should not be able to post-date a me
 We should sit down and come up with a few mockups for how to put Stories front and center as a feature of the app. 
 
 We should come up with a solution for conveying the notion of collaborators and that the app is a private space. 
+
+We should prepare for the diary studies and make sure every piece of the app is approved by Jed before deployment, that will include making the necessary changes at the interaction and implementation level. 
